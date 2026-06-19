@@ -23,6 +23,12 @@ nist-sp-800-53r5_references:
   - sc-28  # SC-28 Protection Of Information AT Rest
   - si-4  # SI-4 System Monitoring
   - si-20  # SI-20 Tainting
+canada-regulations_references:
+  - csa-sn-11-326   # CSA Cyber Security (2013) — cross-sectoral cyber controls
+  - csa-sn-11-332   # CSA Cyber Security (2016) — updated cyber expectations
+  - csa-sn-33-321   # CSA Cyber Security and Social Media (2017)
+  - osfi-b13-d3     # OSFI B-13 Domain 3 — layered cyber controls / data confidentiality (FRFIs)
+  - pipeda          # PIPEDA — safeguards (4.7) and breach notification (s. 10.1)
 mitigates:
   - ri-1  # Information Leaked To Hosted Model
 related_mitigations:

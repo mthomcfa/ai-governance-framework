@@ -26,6 +26,11 @@ nist-sp-800-53r5_references:
   - si-10  # SI-10 Information Input Validation
   - si-12  # SI-12 Information Management And Retention
   - si-18  # SI-18 Personally Identifiable Information Quality Operations
+canada-regulations_references:
+  - csa-sn-11-348      # SN 11-348: data quality flagged as a key AI governance concern
+  - ni-31-103-s11-5    # s. 11.5 general records — accuracy/completeness
+  - osfi-e23-2027-p3-2 # E-23 Principle 3.2 — data suitability for intended use (FRFIs)
+  - pipeda-schedule1   # PIPEDA Schedule 1 Principle 4.6 — accuracy of personal information
 mitigates:
   - ri-1   # Information Leaked To Hosted Model
   - ri-2   # Information Leaked to Vector Store

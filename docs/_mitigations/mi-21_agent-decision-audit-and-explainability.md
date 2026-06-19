@@ -12,6 +12,10 @@ nist-sp-800-53r5_references:
   - au-3   # AU-3 Content of Audit Records
   - au-6   # AU-6 Audit Record Review, Analysis, And Reporting
   - ca-7   # CA-7 Authorization
+canada-regulations_references:
+  - ni-31-103-s13-3     # s. 13.3 reasonable basis — articulating why a recommendation is suitable
+  - ciro-idpc-rule-3800 # Rule 3800 — recordkeeping supports audit trails for AI-assisted decisions
+  - osfi-e23-2027       # E-23 — model documentation underpins decision auditability (FRFIs)
 mitigates:
   - ri-24  # Agent Action Authorization Bypass
   - ri-25  # Tool Chain Manipulation and Injection

@@ -16,6 +16,13 @@ eu-ai-act_references:
   - c3-s2-a10  # III.S2.A10: Data and Data Governance
   - c3-s2-a14  # III.S2.A14: Human Oversight
   - c3-s3-a27  # III.S3.A27: Fundamental Rights Impact Assessment for High-Risk AI Systems
+canada-regulations_references:
+  # Securities guidance & fund conflicts
+  - csa-sn-11-348       # SN 11-348: identifies systemic AI bias as a market-fairness risk
+  - ni-81-107           # IRC referral for AI conflicts — bias from proprietary/affiliated models
+  # Tier 3 benchmarks
+  - osfi-e23-2027-p3-2  # E-23 Principle 3.2 Data Suitability — unwanted bias in model data/outputs (FRFIs)
+  - iosco-fr-02-2026    # IOSCO Supervisory Toolkit — bias/fairness within AI governance
 related_risks:
   - ri-19  # Data Quality and Drift
   - ri-22  # Regulatory Compliance and Oversight

@@ -20,6 +20,10 @@ nist-sp-800-53r5_references:
   - ia-4  # IA-4 Identifier Management
   - ia-5  # IA-5 Authenticator Management
   - cm-12  # CM-12 Information Location
+canada-regulations_references:
+  - ni-31-103-s11-5  # s. 11.5 records — controlled access to client records
+  - osfi-b13-d3      # OSFI B-13 Domain 3 — access controls within layered cyber security (FRFIs)
+  - pipeda           # PIPEDA — safeguards (4.7) proportional to information sensitivity
 mitigates:
   - ri-1  # Information Leaked To Hosted Model
   - ri-8  # Tampering With the Foundational Model

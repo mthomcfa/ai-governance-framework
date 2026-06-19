@@ -111,6 +111,35 @@ ni-33-109-f5:
     Notification instrument CIRO has flagged as potentially triggered when a dealer's
     adoption of AI constitutes a material business change.
 
+# Investment fund rules (apply to investment funds that are reporting issuers)
+
+ni-81-102:
+  title: 'NI 81-102: Investment Funds'
+  url: https://www.osc.ca/en/securities-law/instruments-rules-policies/8/81-102-81-102cp/unofficial-consolidation-national-instrument-81-102-investment-funds
+  issuer: CSA
+  description: >
+    Core investment-fund rule. Part 15 sales-communication standards are the anchor for the
+    "AI washing" concern flagged in SN 11-348; s. 5.1(1)(c) fundamental-change provisions can
+    be triggered where AI adoption is a material change to fund strategy.
+
+ni-81-106:
+  title: 'NI 81-106: Investment Fund Continuous Disclosure'
+  url: https://www.osc.ca/en/securities-law/instruments-rules-policies/8/81-106
+  issuer: CSA
+  description: >
+    Continuous-disclosure regime for investment funds, including material-change reporting
+    relevant where AI adoption materially changes fund operations.
+
+ni-81-107:
+  title: 'NI 81-107: Independent Review Committee for Investment Funds'
+  url: https://www.osc.ca/en/securities-law/instruments-rules-policies/8/81-107/unofficial-consolidation-national-instrument-81-107-independent-review-committee-investment-funds
+  issuer: CSA
+  description: >
+    Requires every reporting-issuer investment fund to maintain an Independent Review
+    Committee (IRC) overseeing conflict-of-interest matters — directly relevant where AI
+    introduces or amplifies manager conflicts (e.g., proprietary/affiliated models, vendor
+    incentives).
+
 csa-sn-11-326:
   title: 'CSA Staff Notice 11-326: Cyber Security (2013-09-26)'
   url: https://www.osc.ca/en/securities-law/instruments-rules-policies/1/11-326/csa-staff-notice-11-326-cyber-security
@@ -329,6 +358,16 @@ iosco-cr-01-2025:
     International consensus framing from IOSCO's Fintech Task Force. CSA and CIRO approaches
     to AI in capital markets are inspired by and broadly consistent with the issues, risks
     and supervisory considerations catalogued in this report.
+
+iosco-fr-02-2026:
+  title: 'IOSCO FR/02/2026: Supervisory Toolkit for AI Use in Capital Markets (2026-05)'
+  url: https://www.iosco.org/library/pubdocs/pdf/IOSCOPD823.pdf
+  issuer: IOSCO
+  description: >
+    Final report from IOSCO's Fintech Task Force (published 2026-05-25). Provides member
+    authorities with practical, non-binding supervisory tools spanning the full AI system
+    lifecycle — from traditional machine learning through GenAI and emerging agentic AI.
+    Successor supervisory toolkit to the CR/01/2025 consultation report.
 
 # ---------------------------------------------------------------------------
 # Tier 4 — Federal privacy and consumer protection (cross-cutting)

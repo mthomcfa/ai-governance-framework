@@ -21,6 +21,12 @@ nist-sp-800-53r5_references:
   - sr-3  # SR-3 Supply Chain Controls And Processes
   - sr-5  # SR-5 Acquisition Strategies, Tools, And Methods
   - sr-8  # SR-8 Notification Agreements
+canada-regulations_references:
+  - ni-31-103-s11-1  # s. 11.1 compliance system — outsourcing accountability
+  - ni-31-103cp      # CP Part 11 — outsourcing due diligence, accountability, contractual controls
+  - osfi-e23-2027    # E-23 — vendor/third-party model risk expectations (FRFIs)
+  - osfi-b13-d2      # OSFI B-13 Domain 2 — third-party technology arrangements (FRFIs)
+  - pipeda           # PIPEDA — third-party accountability (4.1.3) and safeguards (4.7)
 mitigates:
   - ri-1   # Information Leaked To Hosted Model
   - ri-8   # Tampering With the Foundational Model
