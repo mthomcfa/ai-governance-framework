@@ -17,6 +17,21 @@ eu-ai-act_references:
   - c3-s2-a10  # III.S2.A10: Data and Data Governance
   - c3-s2-a13  # III.S2.A13: Transparency and Provision of Information to Deployers
   - c5-s2-a53  # V.S2.A53: Obligations for Providers of General-Purpose AI Models
+canada-regulations_references:
+  # Securities cyber & outsourcing
+  - csa-sn-11-348       # SN 11-348: flags privacy-law implications of sending client info to third-party AI
+  - csa-sn-11-326       # CSA Cyber Security (2013) — cross-sectoral cyber controls
+  - csa-sn-11-332       # CSA Cyber Security (2016) — updated cyber expectations
+  - csa-sn-33-321       # CSA Cyber Security and Social Media (2017) — IFMs, PMs, EMDs
+  - ni-31-103-s11-1     # s. 11.1 compliance system — outsourcing accountability
+  - ni-31-103-s11-5     # s. 11.5 records — confidentiality of client records
+  - ni-31-103cp         # CP Part 11 — accountability for client info transferred to an AI provider
+  - ciro-idpc-rule-3800 # Rule 3800 — recordkeeping/confidentiality in AI-enabled workflows
+  # Tier 3 benchmarks
+  - osfi-b13-d3         # OSFI B-13 Domain 3 — data confidentiality controls (FRFIs)
+  - iosco-fr-02-2026    # IOSCO Supervisory Toolkit — third-party data security
+  # Tier 4 — privacy
+  - pipeda              # PIPEDA — safeguards (4.7), third-party accountability (4.1.3), breach (s. 10.1)
 related_risks:
   - ri-2   # Information Leaked to Vector Store
   - ri-23  # Intellectual Property and Copyright

@@ -14,6 +14,18 @@ eu-ai-act_references:
   - c2-a5      # II.A5 Prohibited AI Practices
   - c3-s2-a9   # III.S2.A9: Risk Management System
   - c3-s2-a14  # III.S2.A14: Human Oversight
+canada-regulations_references:
+  # Misleading AI claims / "AI washing"
+  - csa-sn-11-348       # SN 11-348: flags misleading AI claims / AI washing
+  - ni-81-102           # Part 15 sales communications — AI washing explicitly flagged by SN 11-348
+  - ni-31-103-s13-4     # s. 13.4 — fair, clear and not-misleading client-facing communications
+  # Conflicts driving reputational harm
+  - csa-ciro-sn-31-363  # Conflicts-of-interest review — undisclosed AI conflicts create reputational harm
+  - ni-81-107           # IRC referral — undisclosed/unresolved AI conflicts create reputational exposure
+  # Operational failure as reputational risk
+  - ciro-acr-2026       # CIRO 2026 — operational AI failures are examined
+  - osfi-e23-2027       # E-23 frames biased/unfair outputs as reputational risk (FRFIs)
+  - iosco-fr-02-2026    # IOSCO Supervisory Toolkit — reputational risk across the AI lifecycle
 related_risks:
   - ri-10  # Prompt Injection
   - ri-16  # Bias and Discrimination

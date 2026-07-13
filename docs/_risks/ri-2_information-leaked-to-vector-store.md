@@ -18,6 +18,22 @@ eu-ai-act_references:
   - c3-s2-a10  # III.S2.A10: Data and Data Governance
   - c3-s2-a15  # III.S2.A15: Accuracy, Robustness and Cybersecurity
   - c3-s3-a16  # III.S3.A16: Obligations of Providers of High-Risk AI Systems
+canada-regulations_references:
+  # Securities cyber & outsourcing
+  - csa-sn-11-348       # SN 11-348: privacy-law implications extend to embeddings/vector stores
+  - csa-sn-11-326       # CSA Cyber Security (2013)
+  - csa-sn-11-332       # CSA Cyber Security (2016)
+  - csa-sn-33-321       # CSA Cyber Security and Social Media (2017)
+  - ni-31-103-s11-1     # s. 11.1 compliance system
+  - ni-31-103-s11-5     # s. 11.5 records — including derived data
+  - ni-31-103cp         # CP Part 11 — outsourcing accountability extends to derived data assets
+  - ciro-idpc-rule-3800 # Rule 3800 — applies to derived data assets, not just source records
+  # Tier 3 benchmarks
+  - osfi-b13-d3         # OSFI B-13 Domain 3 — data confidentiality through the lifecycle (FRFIs)
+  - osfi-e23-2027       # E-23 — embeddings/vectors are model artifacts subject to validation & protection
+  - iosco-fr-02-2026    # IOSCO Supervisory Toolkit — third-party data security & model artifacts
+  # Tier 4 — privacy
+  - pipeda              # PIPEDA — retention (4.5), safeguards (4.7), breach (s. 10.1)
 related_risks:
   - ri-1   # Information Leaked To Hosted Model
   - ri-9   # Data Poisoning

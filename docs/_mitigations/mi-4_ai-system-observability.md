@@ -20,6 +20,11 @@ nist-sp-800-53r5_references:
   - ra-10  # RA-10 Threat Hunting
   - si-4  # SI-4 System Monitoring
   - si-7  # SI-7 Software, Firmware, And Information Integrity
+canada-regulations_references:
+  - osfi-e23-2027-p3-6  # E-23 Principle 3.6 — model monitoring standards (FRFIs)
+  - osfi-b13-d2         # OSFI B-13 Domain 2 — technology operations, logging & resilience (FRFIs)
+  - ciro-idpc-rule-3900 # Rule 3900 supervision — understanding the automated processes being supervised
+  - ciro-acr-2026       # CIRO 2026 — examining whether AI is "working as designed"
 mitigates:
   - ri-1   # Information Leaked To Hosted Model
   - ri-5   # Foundation Model Versioning

@@ -14,6 +14,9 @@ nist-sp-800-53r5_references:
   - ac-19  # AC-19 Access Control For Mobile Devices
   - sa-9  # SA-9 External System Services
   - cm-3  # CM-3 Configuration Change Control
+canada-regulations_references:
+  - osfi-b13-d3  # OSFI B-13 Domain 3 — cyber security controls protecting data confidentiality (FRFIs)
+  - pipeda       # PIPEDA — safeguards (4.7); encryption is a recognised technical safeguard
 mitigates:
   - ri-2   # Information Leaked to Vector Store
   - ri-22  # Regulatory Compliance and Oversight

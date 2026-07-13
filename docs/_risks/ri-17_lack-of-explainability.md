@@ -14,6 +14,20 @@ eu-ai-act_references:
   - c3-s2-a14  # III.S2.A14: Human Oversight
   - c4-a50     # IV.A50 Transparency Obligations for Providers and Deployers of Certain AI Systems
   - c9-s4-a86  # IX.S4.A86: Right to Explanation of Individual Decision-Making
+canada-regulations_references:
+  # Reasonable-basis doctrine (functional explainability)
+  - csa-sn-11-348        # SN 11-348: explainability/governance expectations for AI
+  - ni-31-103-s13-3      # s. 13.3 reasonable basis — must articulate why a recommendation is suitable
+  - ni-31-103-s13-2-1    # s. 13.2.1 KYP — understanding the product, including AI-driven products
+  - csa-ciro-sn-31-368   # Joint CFR review — supervisory benchmark for demonstrating reasonable basis
+  # Supervision & oversight
+  - ciro-rules-phase-4   # Proposed Rule 3900 — supervisors must understand automated tasks
+  - ciro-idpc-rule-3900  # Operative Rule 3900 (supervision) — understanding processes being supervised
+  # Investment funds
+  - ni-81-102            # Offering-document disclosure must clearly articulate how AI is used
+  # Tier 3 benchmarks
+  - osfi-e23-2027        # E-23 — model documentation/validation underpins explainability (FRFIs)
+  - iosco-fr-02-2026     # IOSCO Supervisory Toolkit — AI transparency / disclosure
 related_risks:
   - ri-22  # Regulatory Compliance and Oversight
   - ri-16  # Bias and Discrimination

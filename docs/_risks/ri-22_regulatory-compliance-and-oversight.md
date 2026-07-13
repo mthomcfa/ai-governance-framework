@@ -17,6 +17,34 @@ eu-ai-act_references:
   - c3-s3-a16  # III.S3.A16: Obligations of Providers of High-Risk AI Systems
   - c3-s3-a21  # III.S3.A21: Cooperation with Competent Authorities
   - c3-s3-a27  # III.S3.A27: Fundamental Rights Impact Assessment for High-Risk AI Systems
+canada-regulations_references:
+  # AI-specific guidance
+  - csa-sn-11-348            # SN 11-348: AI in Capital Markets — interpretive anchor
+  - ciro-acr-2026            # CIRO 2026 Compliance Report — AI section, FinOps posture
+  # Registration / conduct / suitability (NI 31-103)
+  - ni-31-103-s11-1          # s. 11.1 Compliance System — compliance/outsourcing accountability
+  - ni-31-103-s13-2          # s. 13.2 KYC
+  - ni-31-103-s13-2-1        # s. 13.2.1 KYP
+  - ni-31-103-s13-3          # s. 13.3 Suitability determination
+  - ni-31-103-s13-4          # s. 13.4 Material conflicts of interest
+  - ni-31-103cp              # CP Part 11 — outsourcing due diligence & accountability
+  - csa-ciro-sn-31-363       # Joint CFR review — conflicts of interest
+  - csa-ciro-sn-31-368       # Joint CFR review — KYC/KYP/suitability
+  - ni-33-109-f5             # Form 33-109F5 — material business change notification
+  # Investment funds
+  - ni-81-102                # s. 5.1(1)(c) fundamental change; Part 15 sales communications; AI washing
+  - ni-81-106                # Continuous disclosure — material-change reporting for AI adoption
+  - ni-81-107                # IRC referral for AI-related conflicts
+  # CIRO rules
+  - ciro-idpc-rule-3100-3600 # Business conduct (operative IDPC Rules)
+  - ciro-idpc-rule-3800      # Recordkeeping and client reporting
+  - ciro-idpc-rule-3900      # Supervision
+  - ciro-rules-phase-4       # Proposed Rule 3900 — supervision of automated tasks
+  # Tier 3 benchmarks
+  - osfi-e23-2027            # OSFI E-23 Model Risk Management (FRFIs, eff. 2027)
+  - iosco-fr-02-2026         # IOSCO Supervisory Toolkit for AI Use in Capital Markets
+  # Tier 4 — privacy
+  - pipeda                   # Privacy compliance for AI deployment — SN 11-348 flags the intersection
 related_risks:
   - ri-16  # Bias and Discrimination
   - ri-17  # Lack of Explainability

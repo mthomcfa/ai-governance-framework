@@ -18,6 +18,10 @@ nist-sp-800-53r5_references:
   - sa-11  # SA-11 Developer Testing And Evaluation
   - si-2  # SI-2 Flaw Remediation
   - si-6  # SI-6 Security And Privacy Function Verification
+canada-regulations_references:
+  - osfi-e23-2027-p3-3  # E-23 Principle 3.3 — model development standards (FRFIs)
+  - osfi-e23-2027-p3-4  # E-23 Principle 3.4 — independent assessment of conceptual soundness & performance
+  - iosco-fr-02-2026    # IOSCO Supervisory Toolkit — model validation across the AI lifecycle
 mitigates:
   - ri-4   # Hallucination and Inaccurate Outputs
   - ri-5   # Foundation Model Versioning
