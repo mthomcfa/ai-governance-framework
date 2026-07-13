@@ -8,7 +8,10 @@
             {% assign item = site.data[include.dataset][id] %}
             {% if item %}
             <a href="{{ item.url }}" target="_blank" rel="noopener noreferrer" class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
-                {{ item.title }}
+                <span>
+                    {{ item.title }}
+                    {% if item.applicability %}<br><small class="text-muted">{{ item.applicability }}</small>{% endif %}
+                </span>
                 {% include external-link-icon.html %}
             </a>
             {% endif %}
