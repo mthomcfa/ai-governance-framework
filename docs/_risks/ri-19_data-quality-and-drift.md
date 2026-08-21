@@ -14,6 +14,18 @@ eu-ai-act_references:
   - c3-s2-a10  # III.S2.A10: Data and Data Governance
   - c3-s2-a9   # III.S2.A9: Risk Management System
   - c3-s2-a15  # III.S2.A15: Accuracy, Robustness and Cybersecurity
+csa-ciro-canada_references:
+  - csa-sn-11-348          # CSA SN 11-348: identifies data quality as a key AI governance concern
+  - ni-31-103              # s. 11.5 (general records — accuracy/completeness), s. 11.6 (records access)
+  - ciro-idpc-rules        # Rule 3800 (recordkeeping) — accuracy and completeness of AI-derived data
+  - ciro-acr-2026          # FinOps examination — verifying "AI is working as designed" implies data quality
+  - ni-31-103cp            # CP Part 11 — outsourcing accountability extends to third-party AI data quality
+  - ciro-gn-2300-21-003    # CIRO Outsourcing Arrangements — SLAs and monitoring cover AI provider data quality
+  - osfi-b-13              # OSFI B-13 — technology risk management, data integrity through lifecycle (FRFIs)
+  - osfi-e-23-2027         # OSFI E-23 — data quality, model validation, drift detection (FRFIs, eff. 2027)
+  - qc-amf-ai-guideline    # AMF AI Guideline — lifecycle risk management: data quality, hallucinations, drift (QC FIs, eff. 2027)
+  - iosco-fr-02-2026       # IOSCO Toolkit — model validation and ongoing monitoring across AI lifecycle
+  - pipeda                 # PIPEDA Principle 4.6 — accuracy of personal information used in AI models
 related_risks:
   - ri-4   # Hallucination and Inaccurate Outputs
   - ri-16  # Bias and Discrimination

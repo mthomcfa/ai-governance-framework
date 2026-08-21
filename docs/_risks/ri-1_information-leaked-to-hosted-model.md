@@ -17,6 +17,20 @@ eu-ai-act_references:
   - c3-s2-a10  # III.S2.A10: Data and Data Governance
   - c3-s2-a13  # III.S2.A13: Transparency and Provision of Information to Deployers
   - c5-s2-a53  # V.S2.A53: Obligations for Providers of General-Purpose AI Models
+csa-ciro-canada_references:
+  - csa-sn-11-348          # CSA SN 11-348: explicitly flags privacy law implications of inputting client info into third-party AI
+  - csa-sn-11-326          # CSA Cyber Security (2013) — first cross-sectoral cyber guidance
+  - csa-sn-11-332          # CSA Cyber Security (2016) — follow-up cyber risk expectations
+  - csa-sn-33-321          # CSA Cyber Security and Social Media (2017) — IFMs, PMs, EMDs
+  - ni-31-103              # s. 11.1 (compliance system), s. 11.5 (records confidentiality), outsourcing obligations
+  - ni-31-103cp            # CP Part 11 — outsourcing accountability for client info transferred to AI provider
+  - ciro-idpc-rules        # Rule 3800 (recordkeeping/confidentiality) — client info in AI-enabled workflows
+  - ciro-gn-2300-21-003    # CIRO Outsourcing Arrangements — confidentiality of client info, cross-border due diligence
+  - osfi-b-13              # OSFI B-13 Technology and Cyber Risk Management — data confidentiality (FRFIs)
+  - iosco-fr-02-2026       # IOSCO Toolkit Section 3.2 — third-party data security considerations
+  - pipeda                 # PIPEDA 4.1.3 (third-party accountability), 4.7 (safeguards), s. 10.1 (breach notification)
+  - qc-p39-s12-1           # Quebec Law 25 s. 12.1 — ADM transparency includes disclosing personal info used
+  - qc-p39-s3-3-s17        # Quebec Law 25 ss. 3.3, 17 — PIAs for AI processing, cross-border adequacy
 related_risks:
   - ri-2   # Information Leaked to Vector Store
   - ri-23  # Intellectual Property and Copyright
